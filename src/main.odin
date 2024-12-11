@@ -27,5 +27,10 @@ main :: proc() {
 		}
 	}
 
+	number: int = 0.0
+
+	fmt.println("My favorite number is ", number)
+
+
 	fmt.println("Hello, World")
 }

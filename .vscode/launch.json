@@ -10,7 +10,7 @@
       "name": "Debug",
       "program": "${workspaceFolder}/build/program_name",
       "args": [],
-      "preLaunchTask": "Bash Run", // Runs the build task before debugging
+      "preLaunchTask": "Batch Script Run", // Runs the build task before debugging
       "cwd": "${workspaceFolder}"
     }
   ]

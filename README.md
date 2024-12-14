@@ -6,7 +6,7 @@ A fork of Jocabin's Odin-template. https://github.com/Jocabin/odin-template
 
 Rename all the occurences of `program_name` in the template by your app name.
 
-`./build.sh` will build with debug informations, and then run the program.
+`./build.bat` will build with debug informations, and then run the program.
 
 ## Informations
 
